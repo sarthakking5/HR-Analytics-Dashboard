@@ -3,7 +3,6 @@ This repository contains an HR Analytics Power BI dashboard, providing insightfu
 
 ![](https://github.com/sarthakking5/HR-Analytics-Dashboard/blob/main/dashboard%20files/image1png.png)
 
-
 # Features
 Employee Demographics: Gain an overview of employee demographics, including age distribution, gender representation, and diversity metrics.
 
@@ -17,9 +16,9 @@ Training and Development: Evaluate the effectiveness of training programs and pr
 
 Compensation and Benefits: Gain insights into employee compensation, including salary ranges, average salaries, and benefits utilization.
 
-Employee Engagement: Measure and analyze employee engagement levels through surveys or sentiment analysis.
-
 Absence and Leave Management: Track employee absences, leaves, and their impact on productivity, identifying trends and patterns.
+
+![](https://github.com/sarthakking5/HR-Analytics-Dashboard/blob/main/dashboard%20files/image2.png)
 
 # Getting Started
 Requirements: Ensure you have Power BI Desktop installed on your machine to view and interact with the dashboard.
